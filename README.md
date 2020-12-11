@@ -1,7 +1,7 @@
 # plsc31101-final
 ## Short Description
 
-This project involves several coding tasks. 
+This project collects BLM protest data by date and location to create visualizations of BLM protest data and to prepare datasets for future analysis against various location- and date-specific measures. The project involves several coding tasks, including: 
 
 1. Using RSelenium to scrape from a dynamic webpage. 
 2. Using Google Maps API to get geolocation data
